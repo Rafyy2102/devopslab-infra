@@ -1,4 +1,4 @@
- ### MBA Impacta LAB DevOps & Cloud computing - Turma 03 INFRA
+### MBA Impacta LAB DevOps & Cloud computing - Turma 03 INFRA
 
 ## https://app.terraform.io/app/LabDevOpsCloudRafyy2102/workspaces)
 
